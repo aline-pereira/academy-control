@@ -1,0 +1,44 @@
+{
+  "members": [
+    {
+      "avatar_url": "https://app.rocketseat.com.br/node/fase-03-1",
+      "name": "Aline",
+      "email": "arn_asantos@uolinc.com",
+      "birth": 975715200000,
+      "gender": "F",
+      "blood": "O-",
+      "weight": "78",
+      "height": "165",
+      "id": 2
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Aline",
+      "avatar_url": "https://source.unsplash.com/collection/11635742/500x500",
+      "birth": 975715200000,
+      "gender": "F",
+      "services": "karatê, judo",
+      "created_at": 1618761532367
+    },
+    {
+      "id": 3,
+      "name": "João",
+      "avatar_url": "https://source.unsplash.com/collection/11635742/500x500",
+      "birth": 975715200000,
+      "gender": "F",
+      "services": "karatê",
+      "created_at": 1619042451099
+    },
+    {
+      "id": 4,
+      "name": "João",
+      "avatar_url": "https://source.unsplash.com/collection/11635742/500x500",
+      "birth": 975715200000,
+      "gender": "F",
+      "services": "karatê",
+      "created_at": 1619042515058
+    }
+  ]
+}
